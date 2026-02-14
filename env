@@ -1,0 +1,5 @@
+# Telegram Bot Token (get from @BotFather)
+BOT_TOKEN=8262269897:AAFA3M4qwAkAU6K3DG8JKUesIkh36kPqDqo
+
+# Enable debug mode (True/False)
+DEBUG=False
